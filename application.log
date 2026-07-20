@@ -1,8 +1,0 @@
-2026-07-20 09:00:01|INFO|order-api|service started
-2026-07-20 09:01:15|INFO|order-api|request completed
-2026-07-20 09:02:30|WARNING|order-api|cpu usage is high
-2026-07-20 09:03:20|ERROR|order-api|database connection failed
-2026-07-20 09:04:12|INFO|user-api|service started
-2026-07-20 09:05:44|ERROR|user-api|request timeout
-2026-07-20 09:06:10|INFO|order-api|request completed
-2026-07-20 09:07:31|WARNING|user-api|memory usage is high

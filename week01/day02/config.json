@@ -1,0 +1,5 @@
+{
+    "log_file": "application.log",
+    "report_file": "report.json",
+    "health_check_url": "http://127.0.0.1:8765"
+}
