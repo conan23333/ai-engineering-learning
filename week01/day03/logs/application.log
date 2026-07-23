@@ -1,0 +1,510 @@
+2026-07-23 21:24:16 | INFO | __main__ | 程序开始运行
+2026-07-23 21:24:16 | DEBUG | __main__ | 准备执行除法，a=10，b=0
+2026-07-23 21:24:16 | ERROR | __main__ | 除法执行失败：除数不能为0
+Traceback (most recent call last):
+  File "c:\Users\suliw\Desktop\pythonL\week01\day03\main.py", line 11, in divide
+    result = a / b
+             ~~^~~
+ZeroDivisionError: division by zero
+2026-07-23 21:24:16 | WARNING | __main__ | 本次计算失败，但主程序继续运行
+2026-07-23 21:24:16 | INFO | __main__ | 程序运行结束
+2026-07-23 21:24:26 | INFO | __main__ | 程序开始运行
+2026-07-23 21:24:26 | DEBUG | __main__ | 准备执行除法，a=10，b=0
+2026-07-23 21:24:26 | ERROR | __main__ | 除法执行失败：除数不能为0
+Traceback (most recent call last):
+  File "c:\Users\suliw\Desktop\pythonL\week01\day03\main.py", line 11, in divide
+    result = a / b
+             ~~^~~
+ZeroDivisionError: division by zero
+2026-07-23 21:24:26 | WARNING | __main__ | 本次计算失败，但主程序继续运行
+2026-07-23 21:24:26 | INFO | __main__ | 程序运行结束
+2026-07-23 21:48:29 | INFO | __main__ | 程序开始运行
+2026-07-23 21:48:29 | DEBUG | __main__ | 准备执行除法，a=10，b=0
+2026-07-23 21:48:29 | ERROR | __main__ | 除法执行失败：除数不能为0
+Traceback (most recent call last):
+  File "c:\Users\suliw\Desktop\pythonL\week01\day03\main.py", line 11, in divide
+    result = a / b
+             ~~^~~
+ZeroDivisionError: division by zero
+2026-07-23 21:48:29 | WARNING | __main__ | 本次计算失败，但主程序继续运行
+2026-07-23 21:48:29 | INFO | __main__ | 程序运行结束
+2026-07-23 21:48:29 | ERROR | __main__ | 文件不存在
+Traceback (most recent call last):
+  File "c:\Users\suliw\Desktop\pythonL\week01\day03\main.py", line 20, in read_config
+    with open(file_path,"r",encoding="utf-8") as file:
+         ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+FileNotFoundError: [Errno 2] No such file or directory: 'missing.json'
+2026-07-23 21:48:29 | INFO | __main__ | read_config执行结束
+2026-07-23 21:49:17 | INFO | __main__ | 程序开始运行
+2026-07-23 21:49:17 | DEBUG | __main__ | 准备执行除法，a=10，b=0
+2026-07-23 21:49:17 | ERROR | __main__ | 除法执行失败：除数不能为0
+Traceback (most recent call last):
+  File "c:\Users\suliw\Desktop\pythonL\week01\day03\main.py", line 11, in divide
+    result = a / b
+             ~~^~~
+ZeroDivisionError: division by zero
+2026-07-23 21:49:17 | WARNING | __main__ | 本次计算失败，但主程序继续运行
+2026-07-23 21:49:17 | INFO | __main__ | 程序运行结束
+2026-07-23 21:49:17 | ERROR | __main__ | 文件不存在
+Traceback (most recent call last):
+  File "c:\Users\suliw\Desktop\pythonL\week01\day03\main.py", line 20, in read_config
+    with open(file_path,"r",encoding="utf-8") as file:
+         ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+FileNotFoundError: [Errno 2] No such file or directory: 'config.json'
+2026-07-23 21:49:17 | INFO | __main__ | read_config执行结束
+2026-07-23 21:51:01 | INFO | __main__ | 程序开始运行
+2026-07-23 21:51:01 | DEBUG | __main__ | 准备执行除法，a=10，b=0
+2026-07-23 21:51:01 | ERROR | __main__ | 除法执行失败：除数不能为0
+Traceback (most recent call last):
+  File "c:\Users\suliw\Desktop\pythonL\week01\day03\main.py", line 12, in divide
+    result = a / b
+             ~~^~~
+ZeroDivisionError: division by zero
+2026-07-23 21:51:01 | WARNING | __main__ | 本次计算失败，但主程序继续运行
+2026-07-23 21:51:01 | INFO | __main__ | 程序运行结束
+2026-07-23 21:51:18 | INFO | __main__ | 程序开始运行
+2026-07-23 21:51:18 | DEBUG | __main__ | 准备执行除法，a=10，b=0
+2026-07-23 21:51:18 | ERROR | __main__ | 除法执行失败：除数不能为0
+Traceback (most recent call last):
+  File "c:\Users\suliw\Desktop\pythonL\week01\day03\main.py", line 12, in divide
+    result = a / b
+             ~~^~~
+ZeroDivisionError: division by zero
+2026-07-23 21:51:18 | WARNING | __main__ | 本次计算失败，但主程序继续运行
+2026-07-23 21:51:18 | INFO | __main__ | 程序运行结束
+2026-07-23 21:52:59 | INFO | __main__ | 程序开始运行
+2026-07-23 21:52:59 | DEBUG | __main__ | 准备执行除法，a=10，b=0
+2026-07-23 21:52:59 | ERROR | __main__ | 除法执行失败：除数不能为0
+Traceback (most recent call last):
+  File "c:\Users\suliw\Desktop\pythonL\week01\day03\main.py", line 11, in divide
+    result = a / b
+             ~~^~~
+ZeroDivisionError: division by zero
+2026-07-23 21:52:59 | WARNING | __main__ | 本次计算失败，但主程序继续运行
+2026-07-23 21:52:59 | INFO | __main__ | 程序运行结束
+2026-07-23 21:52:59 | INFO | __main__ | read_config执行结束
+2026-07-23 21:53:06 | INFO | __main__ | 程序开始运行
+2026-07-23 21:53:06 | DEBUG | __main__ | 准备执行除法，a=10，b=0
+2026-07-23 21:53:06 | ERROR | __main__ | 除法执行失败：除数不能为0
+Traceback (most recent call last):
+  File "c:\Users\suliw\Desktop\pythonL\week01\day03\main.py", line 11, in divide
+    result = a / b
+             ~~^~~
+ZeroDivisionError: division by zero
+2026-07-23 21:53:06 | WARNING | __main__ | 本次计算失败，但主程序继续运行
+2026-07-23 21:53:06 | INFO | __main__ | 程序运行结束
+2026-07-23 21:53:06 | INFO | __main__ | read_config执行结束
+2026-07-23 21:53:36 | INFO | __main__ | 程序开始运行
+2026-07-23 21:53:36 | DEBUG | __main__ | 准备执行除法，a=10，b=0
+2026-07-23 21:53:36 | ERROR | __main__ | 除法执行失败：除数不能为0
+Traceback (most recent call last):
+  File "c:\Users\suliw\Desktop\pythonL\week01\day03\main.py", line 11, in divide
+    result = a / b
+             ~~^~~
+ZeroDivisionError: division by zero
+2026-07-23 21:53:36 | WARNING | __main__ | 本次计算失败，但主程序继续运行
+2026-07-23 21:53:36 | INFO | __main__ | 程序运行结束
+2026-07-23 21:53:36 | INFO | __main__ | 文件读取成功,file_path=C:\Users\suliw\Desktop\pythonL\week01\day03\config.json
+2026-07-23 21:53:36 | INFO | __main__ | read_config执行结束
+2026-07-23 21:55:23 | INFO | __main__ | 程序开始运行
+2026-07-23 21:55:23 | DEBUG | __main__ | 准备执行除法，a=10，b=0
+2026-07-23 21:55:23 | ERROR | __main__ | 除法执行失败：除数不能为0
+Traceback (most recent call last):
+  File "c:\Users\suliw\Desktop\pythonL\week01\day03\main.py", line 11, in divide
+    result = a / b
+             ~~^~~
+ZeroDivisionError: division by zero
+2026-07-23 21:55:23 | WARNING | __main__ | 本次计算失败，但主程序继续运行
+2026-07-23 21:55:23 | INFO | __main__ | 程序运行结束
+2026-07-23 21:55:23 | INFO | __main__ | 文件读取成功,file_path=C:\Users\suliw\Desktop\pythonL\week01\day03\config.json
+2026-07-23 21:55:23 | INFO | __main__ | read_config执行结束
+2026-07-23 21:55:29 | INFO | __main__ | 程序开始运行
+2026-07-23 21:55:29 | DEBUG | __main__ | 准备执行除法，a=10，b=0
+2026-07-23 21:55:29 | ERROR | __main__ | 除法执行失败：除数不能为0
+Traceback (most recent call last):
+  File "c:\Users\suliw\Desktop\pythonL\week01\day03\main.py", line 11, in divide
+    result = a / b
+             ~~^~~
+ZeroDivisionError: division by zero
+2026-07-23 21:55:29 | WARNING | __main__ | 本次计算失败，但主程序继续运行
+2026-07-23 21:55:29 | INFO | __main__ | 程序运行结束
+2026-07-23 21:55:29 | INFO | __main__ | 文件读取成功,file_path=C:\Users\suliw\Desktop\pythonL\week01\day03\config.json
+2026-07-23 21:55:29 | INFO | __main__ | read_config执行结束
+2026-07-23 21:56:17 | INFO | __main__ | 程序开始运行
+2026-07-23 21:56:17 | DEBUG | __main__ | 准备执行除法，a=10，b=0
+2026-07-23 21:56:17 | ERROR | __main__ | 除法执行失败：除数不能为0
+Traceback (most recent call last):
+  File "c:\Users\suliw\Desktop\pythonL\week01\day03\main.py", line 11, in divide
+    result = a / b
+             ~~^~~
+ZeroDivisionError: division by zero
+2026-07-23 21:56:17 | WARNING | __main__ | 本次计算失败，但主程序继续运行
+2026-07-23 21:56:17 | INFO | __main__ | 程序1运行结束
+2026-07-23 21:56:17 | INFO | __main__ | 文件读取成功,file_path=C:\Users\suliw\Desktop\pythonL\week01\day03\config.json
+2026-07-23 21:56:17 | INFO | __main__ | read_config执行结束
+2026-07-23 21:57:05 | INFO | __main__ | 程序开始运行
+2026-07-23 21:57:05 | DEBUG | __main__ | 准备执行除法，a=10，b=0
+2026-07-23 21:57:05 | ERROR | __main__ | 除法执行失败：除数不能为0
+Traceback (most recent call last):
+  File "c:\Users\suliw\Desktop\pythonL\week01\day03\main.py", line 11, in divide
+    result = a / b
+             ~~^~~
+ZeroDivisionError: division by zero
+2026-07-23 21:57:05 | WARNING | __main__ | 本次计算失败，但主程序继续运行
+2026-07-23 21:57:05 | INFO | __main__ | 程序1运行结束
+2026-07-23 21:57:05 | INFO | __main__ | 文件读取成功,file_path=C:\Users\suliw\Desktop\pythonL\week01\day03\config.json
+2026-07-23 21:57:05 | INFO | __main__ | read_config执行结束
+2026-07-23 21:57:18 | INFO | __main__ | 程序开始运行
+2026-07-23 21:57:18 | DEBUG | __main__ | 准备执行除法，a=10，b=0
+2026-07-23 21:57:18 | ERROR | __main__ | 除法执行失败：除数不能为0
+Traceback (most recent call last):
+  File "c:\Users\suliw\Desktop\pythonL\week01\day03\main.py", line 11, in divide
+    result = a / b
+             ~~^~~
+ZeroDivisionError: division by zero
+2026-07-23 21:57:18 | WARNING | __main__ | 本次计算失败，但主程序继续运行
+2026-07-23 21:57:18 | INFO | __main__ | 程序1运行结束
+2026-07-23 21:57:18 | ERROR | __main__ | 文件不存在
+Traceback (most recent call last):
+  File "c:\Users\suliw\Desktop\pythonL\week01\day03\main.py", line 20, in read_config
+    with open(file_path,"r",encoding="utf-8") as file:
+         ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+FileNotFoundError: [Errno 2] No such file or directory: 'C:\\Users\\suliw\\Desktop\\pythonL\\week01\\day03\\missing.json'
+2026-07-23 21:57:18 | WARNING | __main__ | 出现文件缺失异常，继续执行
+2026-07-23 21:57:18 | INFO | __main__ | read_config执行结束
+2026-07-23 22:03:29 | INFO | __main__ | 程序开始运行
+2026-07-23 22:03:29 | DEBUG | __main__ | 准备执行除法，a=10，b=0
+2026-07-23 22:03:29 | ERROR | __main__ | 除法执行失败：除数不能为0
+Traceback (most recent call last):
+  File "c:\Users\suliw\Desktop\pythonL\week01\day03\main.py", line 12, in divide
+    result = a / b
+             ~~^~~
+ZeroDivisionError: division by zero
+2026-07-23 22:03:29 | WARNING | __main__ | 本次计算失败，但主程序继续运行
+2026-07-23 22:03:29 | INFO | __main__ | 程序1运行结束
+2026-07-23 22:03:29 | ERROR | __main__ | 出现文件缺失异常，继续执行
+Traceback (most recent call last):
+  File "c:\Users\suliw\Desktop\pythonL\week01\day03\main.py", line 21, in read_config
+    with open(file_path,"r",encoding="utf-8") as file:
+         ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+FileNotFoundError: [Errno 2] No such file or directory: 'C:\\Users\\suliw\\Desktop\\pythonL\\week01\\day03\\missing.json'
+
+The above exception was the direct cause of the following exception:
+
+Traceback (most recent call last):
+  File "c:\Users\suliw\Desktop\pythonL\week01\day03\main.py", line 44, in main
+    config = read_config(BASE_DIR/"missing.json")
+             ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "c:\Users\suliw\Desktop\pythonL\week01\day03\main.py", line 26, in read_config
+    raise ConfigFileNotFoundError(
+exceptions.ConfigFileNotFoundError: 配置文件不存在C:\Users\suliw\Desktop\pythonL\week01\day03\missing.json
+2026-07-23 22:03:29 | INFO | __main__ | read_config执行结束
+2026-07-23 22:03:35 | INFO | __main__ | 程序开始运行
+2026-07-23 22:03:35 | DEBUG | __main__ | 准备执行除法，a=10，b=0
+2026-07-23 22:03:35 | ERROR | __main__ | 除法执行失败：除数不能为0
+Traceback (most recent call last):
+  File "c:\Users\suliw\Desktop\pythonL\week01\day03\main.py", line 12, in divide
+    result = a / b
+             ~~^~~
+ZeroDivisionError: division by zero
+2026-07-23 22:03:35 | WARNING | __main__ | 本次计算失败，但主程序继续运行
+2026-07-23 22:03:35 | INFO | __main__ | 程序1运行结束
+2026-07-23 22:03:35 | ERROR | __main__ | 出现文件缺失异常，继续执行
+Traceback (most recent call last):
+  File "c:\Users\suliw\Desktop\pythonL\week01\day03\main.py", line 21, in read_config
+    with open(file_path,"r",encoding="utf-8") as file:
+         ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+FileNotFoundError: [Errno 2] No such file or directory: 'C:\\Users\\suliw\\Desktop\\pythonL\\week01\\day03\\missing.json'
+
+The above exception was the direct cause of the following exception:
+
+Traceback (most recent call last):
+  File "c:\Users\suliw\Desktop\pythonL\week01\day03\main.py", line 44, in main
+    config = read_config(BASE_DIR/"missing.json")
+             ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "c:\Users\suliw\Desktop\pythonL\week01\day03\main.py", line 26, in read_config
+    raise ConfigFileNotFoundError(
+exceptions.ConfigFileNotFoundError: 配置文件不存在C:\Users\suliw\Desktop\pythonL\week01\day03\missing.json
+2026-07-23 22:03:35 | INFO | __main__ | read_config执行结束
+2026-07-23 22:04:33 | INFO | __main__ | 程序开始运行
+2026-07-23 22:04:33 | DEBUG | __main__ | 准备执行除法，a=10，b=0
+2026-07-23 22:04:33 | ERROR | __main__ | 除法执行失败：除数不能为0
+Traceback (most recent call last):
+  File "c:\Users\suliw\Desktop\pythonL\week01\day03\main.py", line 12, in divide
+    result = a / b
+             ~~^~~
+ZeroDivisionError: division by zero
+2026-07-23 22:04:33 | WARNING | __main__ | 本次计算失败，但主程序继续运行
+2026-07-23 22:04:33 | INFO | __main__ | 程序1运行结束
+2026-07-23 22:04:33 | INFO | __main__ | 文件读取成功,file_path=C:\Users\suliw\Desktop\pythonL\week01\day03\config.json
+2026-07-23 22:04:33 | INFO | __main__ | 配置加载完成，app_name=ai-log-analyzer
+2026-07-23 22:04:33 | INFO | __main__ | read_config执行结束
+2026-07-23 22:04:53 | INFO | __main__ | 程序开始运行
+2026-07-23 22:04:53 | DEBUG | __main__ | 准备执行除法，a=10，b=0
+2026-07-23 22:04:53 | ERROR | __main__ | 除法执行失败：除数不能为0
+Traceback (most recent call last):
+  File "c:\Users\suliw\Desktop\pythonL\week01\day03\main.py", line 12, in divide
+    result = a / b
+             ~~^~~
+ZeroDivisionError: division by zero
+2026-07-23 22:04:53 | WARNING | __main__ | 本次计算失败，但主程序继续运行
+2026-07-23 22:04:53 | INFO | __main__ | 程序1运行结束
+2026-07-23 22:04:53 | ERROR | __main__ | 文件损坏
+Traceback (most recent call last):
+  File "c:\Users\suliw\Desktop\pythonL\week01\day03\main.py", line 22, in read_config
+    config_file = json.load(file)
+                  ^^^^^^^^^^^^^^^
+  File "C:\Users\suliw\AppData\Local\Programs\Python\Python312\Lib\json\__init__.py", line 293, in load
+    return loads(fp.read(),
+           ^^^^^^^^^^^^^^^^
+  File "C:\Users\suliw\AppData\Local\Programs\Python\Python312\Lib\json\__init__.py", line 346, in loads
+    return _default_decoder.decode(s)
+           ^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "C:\Users\suliw\AppData\Local\Programs\Python\Python312\Lib\json\decoder.py", line 338, in decode
+    obj, end = self.raw_decode(s, idx=_w(s, 0).end())
+               ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "C:\Users\suliw\AppData\Local\Programs\Python\Python312\Lib\json\decoder.py", line 354, in raw_decode
+    obj, end = self.scan_once(s, idx)
+               ^^^^^^^^^^^^^^^^^^^^^^
+json.decoder.JSONDecodeError: Expecting ',' delimiter: line 2 column 34 (char 35)
+
+The above exception was the direct cause of the following exception:
+
+Traceback (most recent call last):
+  File "c:\Users\suliw\Desktop\pythonL\week01\day03\main.py", line 44, in main
+    config = read_config(BASE_DIR/"config.json")
+             ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "c:\Users\suliw\Desktop\pythonL\week01\day03\main.py", line 30, in read_config
+    raise ConfigFormatError(
+exceptions.ConfigFormatError: 配置文件JSON格式错误：C:\Users\suliw\Desktop\pythonL\week01\day03\config.json,第2行
+2026-07-23 22:04:53 | INFO | __main__ | read_config执行结束
+2026-07-23 22:09:01 | INFO | __main__ | 程序开始运行
+2026-07-23 22:09:01 | DEBUG | __main__ | 准备执行除法，a=10，b=0
+2026-07-23 22:09:01 | ERROR | __main__ | 除法执行失败：除数不能为0
+Traceback (most recent call last):
+  File "c:\Users\suliw\Desktop\pythonL\week01\day03\main.py", line 14, in divide
+    result = a / b
+             ~~^~~
+ZeroDivisionError: division by zero
+2026-07-23 22:09:01 | WARNING | __main__ | 本次计算失败，但主程序继续运行
+2026-07-23 22:09:01 | INFO | __main__ | 程序1运行结束
+2026-07-23 22:09:01 | INFO | __main__ | 文件读取成功,file_path=C:\Users\suliw\Desktop\pythonL\week01\day03\config.json
+2026-07-23 22:09:01 | INFO | __main__ | 配置加载完成，app_name=ai-log-analyzer
+2026-07-23 22:09:01 | INFO | __main__ | read_config执行结束
+2026-07-23 22:09:01 | INFO | retry | 开始执行操作，attempt=1/3
+2026-07-23 22:09:01 | WARNING | retry | 发生临时故障，准备重试，attempt=1/3，delay=1.15秒，error=模拟网络故障，第1次调用失败
+2026-07-23 22:09:02 | INFO | retry | 开始执行操作，attempt=2/3
+2026-07-23 22:09:02 | WARNING | retry | 发生临时故障，准备重试，attempt=2/3，delay=2.25秒，error=模拟网络故障，第2次调用失败
+2026-07-23 22:09:04 | INFO | retry | 开始执行操作，attempt=3/3
+2026-07-23 22:09:04 | INFO | __main__ | 模型请求结果：模型调用成功
+2026-07-23 22:09:04 | INFO | __main__ | 程序运行结束
+2026-07-23 22:09:09 | INFO | __main__ | 程序开始运行
+2026-07-23 22:09:09 | DEBUG | __main__ | 准备执行除法，a=10，b=0
+2026-07-23 22:09:09 | ERROR | __main__ | 除法执行失败：除数不能为0
+Traceback (most recent call last):
+  File "c:\Users\suliw\Desktop\pythonL\week01\day03\main.py", line 14, in divide
+    result = a / b
+             ~~^~~
+ZeroDivisionError: division by zero
+2026-07-23 22:09:09 | WARNING | __main__ | 本次计算失败，但主程序继续运行
+2026-07-23 22:09:09 | INFO | __main__ | 程序1运行结束
+2026-07-23 22:09:09 | INFO | __main__ | 文件读取成功,file_path=C:\Users\suliw\Desktop\pythonL\week01\day03\config.json
+2026-07-23 22:09:09 | INFO | __main__ | 配置加载完成，app_name=ai-log-analyzer
+2026-07-23 22:09:09 | INFO | __main__ | read_config执行结束
+2026-07-23 22:09:09 | INFO | retry | 开始执行操作，attempt=1/3
+2026-07-23 22:09:09 | WARNING | retry | 发生临时故障，准备重试，attempt=1/3，delay=1.21秒，error=模拟网络故障，第1次调用失败
+2026-07-23 22:09:11 | INFO | retry | 开始执行操作，attempt=2/3
+2026-07-23 22:09:11 | WARNING | retry | 发生临时故障，准备重试，attempt=2/3，delay=2.10秒，error=模拟网络故障，第2次调用失败
+2026-07-23 22:09:13 | INFO | retry | 开始执行操作，attempt=3/3
+2026-07-23 22:09:13 | INFO | __main__ | 模型请求结果：模型调用成功
+2026-07-23 22:09:13 | INFO | __main__ | 程序运行结束
+2026-07-23 22:12:52 | INFO | __main__ | 程序开始运行
+2026-07-23 22:12:52 | DEBUG | __main__ | 准备执行除法，a=10，b=0
+2026-07-23 22:12:52 | ERROR | __main__ | 除法执行失败：除数不能为0
+Traceback (most recent call last):
+  File "c:\Users\suliw\Desktop\pythonL\week01\day03\main.py", line 15, in divide
+    result = a / b
+             ~~^~~
+ZeroDivisionError: division by zero
+2026-07-23 22:12:52 | WARNING | __main__ | 本次计算失败，但主程序继续运行
+2026-07-23 22:12:52 | INFO | __main__ | 程序1运行结束
+2026-07-23 22:12:52 | INFO | __main__ | 文件读取成功,file_path=C:\Users\suliw\Desktop\pythonL\week01\day03\config.json
+2026-07-23 22:12:52 | INFO | __main__ | 配置加载完成，app_name=ai-log-analyzer
+2026-07-23 22:12:52 | INFO | __main__ | read_config执行结束
+2026-07-23 22:12:52 | INFO | retry | 开始执行操作，attempt=1/3
+2026-07-23 22:12:52 | WARNING | retry | 发生临时故障，准备重试，attempt=1/3，delay=1.15秒，error=模拟网络故障，第1次调用失败
+2026-07-23 22:12:53 | INFO | retry | 开始执行操作，attempt=2/3
+2026-07-23 22:12:53 | WARNING | retry | 发生临时故障，准备重试，attempt=2/3，delay=2.06秒，error=模拟网络故障，第2次调用失败
+2026-07-23 22:12:55 | INFO | retry | 开始执行操作，attempt=3/3
+2026-07-23 22:12:55 | INFO | __main__ | 模型请求结果：模型调用成功
+2026-07-23 22:12:55 | INFO | retry | 开始执行操作，attempt=1/3
+2026-07-23 22:12:55 | WARNING | retry | 发生临时故障，准备重试，attempt=1/3，delay=0.46秒，error=服务持续不可用，第1次调用失败
+2026-07-23 22:12:55 | INFO | retry | 开始执行操作，attempt=2/3
+2026-07-23 22:12:55 | WARNING | retry | 发生临时故障，准备重试，attempt=2/3，delay=0.45秒，error=服务持续不可用，第2次调用失败
+2026-07-23 22:12:56 | INFO | retry | 开始执行操作，attempt=3/3
+2026-07-23 22:12:56 | ERROR | __main__ | 服务重试耗尽，call_count=3
+Traceback (most recent call last):
+  File "c:\Users\suliw\Desktop\pythonL\week01\day03\retry.py", line 31, in run_with_retry
+    return operation()
+           ^^^^^^^^^^^
+  File "c:\Users\suliw\Desktop\pythonL\week01\day03\main.py", line 118, in request
+    raise TemporaryNetworkError(
+exceptions.TemporaryNetworkError: 服务持续不可用，第3次调用失败
+
+The above exception was the direct cause of the following exception:
+
+Traceback (most recent call last):
+  File "c:\Users\suliw\Desktop\pythonL\week01\day03\main.py", line 72, in main
+    run_with_retry(
+  File "c:\Users\suliw\Desktop\pythonL\week01\day03\retry.py", line 35, in run_with_retry
+    raise RetryExhaustedError(
+exceptions.RetryExhaustedError: 操作重试3次后仍然失败
+2026-07-23 22:12:56 | INFO | retry | 开始执行操作，attempt=1/3
+2026-07-23 22:12:56 | ERROR | __main__ | 模型认证失败，不执行重试，call_count=1
+Traceback (most recent call last):
+  File "c:\Users\suliw\Desktop\pythonL\week01\day03\main.py", line 86, in main
+    run_with_retry(
+  File "c:\Users\suliw\Desktop\pythonL\week01\day03\retry.py", line 31, in run_with_retry
+    return operation()
+           ^^^^^^^^^^^
+  File "c:\Users\suliw\Desktop\pythonL\week01\day03\main.py", line 128, in request
+    raise AuthenticationError("API Key无效")
+exceptions.AuthenticationError: API Key无效
+2026-07-23 22:12:56 | INFO | __main__ | 程序运行结束
+2026-07-23 22:14:05 | INFO | __main__ | 程序开始运行
+2026-07-23 22:14:05 | DEBUG | __main__ | 准备执行除法，a=10，b=0
+2026-07-23 22:14:05 | ERROR | __main__ | 除法执行失败：除数不能为0
+Traceback (most recent call last):
+  File "c:\Users\suliw\Desktop\pythonL\week01\day03\main.py", line 15, in divide
+    result = a / b
+             ~~^~~
+ZeroDivisionError: division by zero
+2026-07-23 22:14:05 | WARNING | __main__ | 本次计算失败，但主程序继续运行
+2026-07-23 22:14:05 | INFO | __main__ | 程序1运行结束
+2026-07-23 22:14:05 | INFO | __main__ | 文件读取成功,file_path=C:\Users\suliw\Desktop\pythonL\week01\day03\config.json
+2026-07-23 22:14:05 | INFO | __main__ | 配置加载完成，app_name=ai-log-analyzer
+2026-07-23 22:14:05 | INFO | __main__ | read_config执行结束
+2026-07-23 22:14:05 | INFO | retry | 开始执行操作，attempt=1/3
+2026-07-23 22:14:05 | WARNING | retry | 发生临时故障，准备重试，attempt=1/3，delay=1.04秒，error=模拟网络故障，第1次调用失败
+2026-07-23 22:14:06 | INFO | retry | 开始执行操作，attempt=2/3
+2026-07-23 22:14:06 | WARNING | retry | 发生临时故障，准备重试，attempt=2/3，delay=2.38秒，error=模拟网络故障，第2次调用失败
+2026-07-23 22:14:09 | INFO | retry | 开始执行操作，attempt=3/3
+2026-07-23 22:14:09 | INFO | __main__ | 模型请求结果：模型调用成功
+2026-07-23 22:14:09 | INFO | retry | 开始执行操作，attempt=1/3
+2026-07-23 22:14:09 | WARNING | retry | 发生临时故障，准备重试，attempt=1/3，delay=0.25秒，error=服务持续不可用，第1次调用失败
+2026-07-23 22:14:09 | INFO | retry | 开始执行操作，attempt=2/3
+2026-07-23 22:14:09 | WARNING | retry | 发生临时故障，准备重试，attempt=2/3，delay=0.50秒，error=服务持续不可用，第2次调用失败
+2026-07-23 22:14:09 | INFO | retry | 开始执行操作，attempt=3/3
+2026-07-23 22:14:09 | ERROR | __main__ | 服务重试耗尽，call_count=3
+Traceback (most recent call last):
+  File "c:\Users\suliw\Desktop\pythonL\week01\day03\retry.py", line 31, in run_with_retry
+    return operation()
+           ^^^^^^^^^^^
+  File "c:\Users\suliw\Desktop\pythonL\week01\day03\main.py", line 118, in request
+    raise TemporaryNetworkError(
+exceptions.TemporaryNetworkError: 服务持续不可用，第3次调用失败
+
+The above exception was the direct cause of the following exception:
+
+Traceback (most recent call last):
+  File "c:\Users\suliw\Desktop\pythonL\week01\day03\main.py", line 72, in main
+    run_with_retry(
+  File "c:\Users\suliw\Desktop\pythonL\week01\day03\retry.py", line 35, in run_with_retry
+    raise RetryExhaustedError(
+exceptions.RetryExhaustedError: 操作重试3次后仍然失败
+2026-07-23 22:14:09 | INFO | retry | 开始执行操作，attempt=1/3
+2026-07-23 22:14:09 | ERROR | __main__ | 模型认证失败，不执行重试，call_count=1
+Traceback (most recent call last):
+  File "c:\Users\suliw\Desktop\pythonL\week01\day03\main.py", line 86, in main
+    run_with_retry(
+  File "c:\Users\suliw\Desktop\pythonL\week01\day03\retry.py", line 31, in run_with_retry
+    return operation()
+           ^^^^^^^^^^^
+  File "c:\Users\suliw\Desktop\pythonL\week01\day03\main.py", line 128, in request
+    raise AuthenticationError("API Key无效")
+exceptions.AuthenticationError: API Key无效
+2026-07-23 22:14:09 | INFO | __main__ | 程序运行结束
+2026-07-23 22:47:03 | INFO | __main__ | 文件读取成功,file_path=C:\Users\suliw\Desktop\pythonL\week01\day03\config.json
+2026-07-23 22:47:06 | INFO | retry | 开始执行操作，attempt=1/3
+2026-07-23 22:47:31 | INFO | __main__ | 文件读取成功,file_path=C:\Users\suliw\Desktop\pythonL\week01\day03\config.json
+2026-07-23 22:47:33 | INFO | retry | 开始执行操作，attempt=1/3
+2026-07-23 22:47:48 | INFO | __main__ | 程序开始运行
+2026-07-23 22:47:48 | DEBUG | __main__ | 准备执行除法，a=10，b=0
+2026-07-23 22:47:48 | ERROR | __main__ | 除法执行失败：除数不能为0
+Traceback (most recent call last):
+  File "c:\Users\suliw\Desktop\pythonL\week01\day03\main.py", line 16, in divide
+    result = a / b
+             ~~^~~
+ZeroDivisionError: division by zero
+2026-07-23 22:47:48 | WARNING | __main__ | 本次计算失败，但主程序继续运行
+2026-07-23 22:47:48 | INFO | __main__ | 程序1运行结束
+2026-07-23 22:47:48 | INFO | __main__ | 文件读取成功,file_path=C:\Users\suliw\Desktop\pythonL\week01\day03\config.json
+2026-07-23 22:47:48 | INFO | __main__ | 配置加载完成，app_name=ai-log-analyzer
+2026-07-23 22:47:48 | INFO | __main__ | read_config执行结束
+2026-07-23 22:47:48 | INFO | retry | 开始执行操作，attempt=1/3
+2026-07-23 22:47:48 | WARNING | retry | 发生临时故障，准备重试，attempt=1/3，delay=1.25秒，error=模拟网络故障，第1次调用失败
+2026-07-23 22:47:49 | INFO | retry | 开始执行操作，attempt=2/3
+2026-07-23 22:47:49 | WARNING | retry | 发生临时故障，准备重试，attempt=2/3，delay=2.11秒，error=模拟网络故障，第2次调用失败
+2026-07-23 22:47:51 | INFO | retry | 开始执行操作，attempt=3/3
+2026-07-23 22:47:51 | INFO | __main__ | 模型请求结果：模型调用成功
+2026-07-23 22:47:51 | INFO | retry | 开始执行操作，attempt=1/3
+2026-07-23 22:47:51 | WARNING | retry | 发生临时故障，准备重试，attempt=1/3，delay=0.22秒，error=服务持续不可用，第1次调用失败
+2026-07-23 22:47:51 | INFO | retry | 开始执行操作，attempt=2/3
+2026-07-23 22:47:51 | WARNING | retry | 发生临时故障，准备重试，attempt=2/3，delay=0.43秒，error=服务持续不可用，第2次调用失败
+2026-07-23 22:47:52 | INFO | retry | 开始执行操作，attempt=3/3
+2026-07-23 22:47:52 | ERROR | __main__ | 服务重试耗尽，call_count=3
+Traceback (most recent call last):
+  File "c:\Users\suliw\Desktop\pythonL\week01\day03\retry.py", line 31, in run_with_retry
+    return operation()
+           ^^^^^^^^^^^
+  File "c:\Users\suliw\Desktop\pythonL\week01\day03\main.py", line 119, in request
+    raise TemporaryNetworkError(
+exceptions.TemporaryNetworkError: 服务持续不可用，第3次调用失败
+
+The above exception was the direct cause of the following exception:
+
+Traceback (most recent call last):
+  File "c:\Users\suliw\Desktop\pythonL\week01\day03\main.py", line 73, in main
+    run_with_retry(
+  File "c:\Users\suliw\Desktop\pythonL\week01\day03\retry.py", line 35, in run_with_retry
+    raise RetryExhaustedError(
+exceptions.RetryExhaustedError: 操作重试3次后仍然失败
+2026-07-23 22:47:52 | INFO | retry | 开始执行操作，attempt=1/3
+2026-07-23 22:47:52 | ERROR | __main__ | 模型认证失败，不执行重试，call_count=1
+Traceback (most recent call last):
+  File "c:\Users\suliw\Desktop\pythonL\week01\day03\main.py", line 87, in main
+    run_with_retry(
+  File "c:\Users\suliw\Desktop\pythonL\week01\day03\retry.py", line 31, in run_with_retry
+    return operation()
+           ^^^^^^^^^^^
+  File "c:\Users\suliw\Desktop\pythonL\week01\day03\main.py", line 129, in request
+    raise AuthenticationError("API Key无效")
+exceptions.AuthenticationError: API Key无效
+2026-07-23 22:47:52 | INFO | __main__ | 程序运行结束
+2026-07-23 22:50:00 | INFO | __main__ | 程序开始运行
+2026-07-23 22:50:00 | INFO | __main__ | JSON文件读取成功，file_path=C:\Users\suliw\Desktop\pythonL\week01\day03\config.json
+2026-07-23 22:50:00 | INFO | __main__ | 配置加载完成，app_name=ai-log-analyzer
+2026-07-23 22:50:00 | ERROR | __main__ | 必要的JSON文件不存在，程序结束
+Traceback (most recent call last):
+  File "c:\Users\suliw\Desktop\pythonL\week01\day03\main.py", line 18, in read_json
+    with open(file_path, "r", encoding="utf-8") as json_file:
+         ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+FileNotFoundError: [Errno 2] No such file or directory: 'C:\\Users\\suliw\\Desktop\\pythonL\\week01\\day03\\report.json'
+
+The above exception was the direct cause of the following exception:
+
+Traceback (most recent call last):
+  File "c:\Users\suliw\Desktop\pythonL\week01\day03\main.py", line 50, in main
+    report = read_json(BASE_DIR / "report.json")
+             ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "c:\Users\suliw\Desktop\pythonL\week01\day03\main.py", line 28, in read_json
+    raise ConfigFileNotFoundError(
+exceptions.ConfigFileNotFoundError: JSON文件不存在：C:\Users\suliw\Desktop\pythonL\week01\day03\report.json
+2026-07-23 22:50:29 | INFO | __main__ | 程序开始运行
+2026-07-23 22:50:29 | INFO | __main__ | JSON文件读取成功，file_path=C:\Users\suliw\Desktop\pythonL\week01\day03\config.json
+2026-07-23 22:50:29 | INFO | __main__ | 配置加载完成，app_name=ai-log-analyzer
+2026-07-23 22:50:29 | INFO | __main__ | JSON文件读取成功，file_path=C:\Users\suliw\Desktop\pythonL\week01\day03\report.json
+2026-07-23 22:50:29 | INFO | __main__ | 开始请求DeepSeek分析日志
+2026-07-23 22:50:32 | INFO | retry | 开始执行操作，attempt=1/3
+2026-07-23 22:50:58 | INFO | __main__ | DeepSeek分析成功，model=deepseek-v4-pro，tokens=3498
+2026-07-23 22:50:58 | INFO | __main__ | 程序运行结束
