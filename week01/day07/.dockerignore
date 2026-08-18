@@ -1,9 +1,8 @@
-.venv*/
+.env
+.venv/
 __pycache__/
 .pytest_cache/
 *.pyc
-.env
-.vscode/
-.idea/
 *.log
-*.db
+analysis.db
+.git/
